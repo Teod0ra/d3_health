@@ -1,0 +1,49 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+
+}
+
+
+
+.jumbo{
+    margin-top: 10%;
+    background: rgb(249, 255, 251); /* This is for ie8 and below */
+    background: rgba(249, 255, 251, 0.5);
+}
+#finkiLogo{
+    width:80%;
+}
+#finkiPic{
+    width: 30px;
+    height: 30px;
+}
+#page{
+    padding-top: 70px;
+}
+
+.crunchify-top:hover {
+    color: #fff !important;
+    background-color: #d0d1ce;
+    text-decoration: none;
+}
+
+.crunchify-top {
+    margin: 20px;
+    display: none;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    width: 5rem;
+    height: 5rem;
+    color: #fff;
+    background-color: rgba(253, 253, 255, 0.3);
+    border-radius: 3.2rem;
+    cursor: pointer;
+}
+.divider{
+    margin-top:100px;
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+}
