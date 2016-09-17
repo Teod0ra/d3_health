@@ -18,26 +18,26 @@ module.exports = function (grunt) {
           livereload: true
         }
       },
-      css: {
-        files: ['../css/*.css'],
-        options: {
-          livereload: true
-        }
-      },
+      //css: {
+      //  files: ['../css/*.css'],
+      //  options: {
+      //    livereload: true
+      //  }
+      //},
       js: {
         files: ['../scripts/*.js'],
         options: {
           debounceDelay: 1000,
           livereload: true
         }
-      },
-      data: {
-        files: ['../json_db/*.json'],
-        options: {
-          debounceDelay: 1000,
-          livereload: true
-        }
       }
+      //data: {
+      //  files: ['../json_db/*.json'],
+      //  options: {
+      //    debounceDelay: 1000,
+      //    livereload: true
+      //  }
+      //}
     },
     open: {
       dev: {

@@ -55,7 +55,7 @@
     }
   }
 
-  function clickDropDown(country) {
+  window.clickDropDown = function(country) {
     var filteredData = [];
     $('#tobacoCountryName').text(country);
     for (var i = 0; i < europeData.length; i++) {

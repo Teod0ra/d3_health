@@ -34,6 +34,9 @@
       if (notAplicableForList) {
         continue;
       }
+      if (data[i].dim.REGION !== 'Europe') {
+        continue;
+      }
       if (typeof policies[data[i].Value] === 'undefined') {
         policies[data[i].Value] = 1;
       } else {

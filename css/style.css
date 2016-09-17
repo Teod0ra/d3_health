@@ -151,4 +151,19 @@ body{
     cursor: pointer;
 }
 
+#tobaccoAverageTaxes .axis path,
+#tobaccoAverageTaxes .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
 
+#tobaccoAverageTaxes .x.axis path {
+    display: none;
+}
+
+#tobaccoAverageTaxes .line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
