@@ -18,8 +18,11 @@ body{
     width: 30px;
     height: 30px;
 }
-#page{
-    padding: 15% 10% ;
+#page {
+    padding: 7% 8%;
+}
+#immunizationGraph{
+    margin-top: 5%;
 }
 
 .crunchify-top:hover {
