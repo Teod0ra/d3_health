@@ -5,20 +5,20 @@
 $(document).ready(function () {
 
     $("#navHome").click(function () {
-        window.location.href = "../pocetna.html";
+        window.location.href = "../index.html";
     });
     $("#zdravje").click(function () {
         window.location.href = "zdravje.html";
 
     });
     $("#vakcinacii").click(function () {
-        window.location.href = "vakcini.html";
+        window.location.href = "../immunization.html";
     });
     $("#zastita_patista").click(function () {
-        window.location.href = "patista.html";
+        window.location.href = "../tobacco.html";
     });
     $("#test").click(function () {
-        window.location.href = "test.html";
+        window.location.href = "../roadsSafety.html";
     });
 
 });
