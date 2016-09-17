@@ -64,7 +64,10 @@ body{
 }
 
 
-
+#addCountry{
+    overflow-y: scroll;
+    height: 150px;
+}
 
 #carouselExamples{
     display: none;

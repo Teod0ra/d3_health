@@ -1,4 +1,4 @@
-var tobbaco_url = "../json_db/tobacco_use.json";
+var tobbaco_url = "json_db/tobacco_use.json"
 
 var margin = {top: 20, right: 20, bottom: 70, left: 40},
   width = 600 - margin.left - margin.right,
