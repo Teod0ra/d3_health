@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa26446-44e0-49df-b65d-5f5e502a51eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\Timska.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\libraries\Timska_node_modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="E:\Documents\Fakultet\tedi_d3_heath\d3_health\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="Timska.iws" />
@@ -48,7 +40,7 @@
       <file leaf-file-name="Timska.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/Timska.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="238">
               <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding />
             </state>
@@ -58,7 +50,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="358">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="219">
               <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
@@ -136,6 +128,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,7 +164,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -184,6 +176,9 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -438,11 +433,12 @@
       <updated>1447618876233</updated>
       <workItem from="1474114172545" duration="141000" />
       <workItem from="1474114579833" duration="128000" />
+      <workItem from="1474115495739" duration="128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269000" />
+    <option name="totallyTimeSpent" value="397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -498,6 +494,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/Timska.iml">
