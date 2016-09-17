@@ -3,6 +3,30 @@ TOBACCO
 
 TOBACCO USE
 http://apps.who.int/gho/athena/data/GHO/TOBACCO_0000000344,TOBACCO_0000000192.json?profile=simple&filter=COUNTRY:*;REGION:*;SEX:*
+sample fact
+
+Use only "Region" Europe.
+show Countries in dropdown.
+
+X axis is year
+Y axis is Value
+
+{
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "Serbia",
+        "YEAR": "2013",
+        "SEX": "Female",
+        "GHO": "Prevalence of current tobacco use among adolescents aged 13-15 years"
+      },
+      "Comments": "Cigarette smoking only",
+      "Value": "17.4"
+    }
+
+
+
+
 
 TOBACCO POLICES
 

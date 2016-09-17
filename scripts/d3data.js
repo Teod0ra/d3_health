@@ -15,4 +15,11 @@ d3.select(".chart")
     .style("width", function(d)
     { return x(d) + "px"; })
     .style("background-color","blue")
-    .text(function(d) { return d; })
+    .text(function(d) { return d; });
+
+
+var url = '../json_db/tobacco_use.json';
+d3.json(url, function(error, data) {
+    console.log(error);
+    console.log(data);
+});

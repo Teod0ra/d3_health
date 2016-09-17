@@ -47,3 +47,6 @@ body{
     margin-right: auto;
     display: block;
 }
+.dropdown-item {
+    cursor: pointer;
+}

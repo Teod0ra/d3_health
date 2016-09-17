@@ -25,14 +25,14 @@ module.exports = function (grunt) {
         }
       },
       js: {
-        files: ['../js/*.js'],
+        files: ['../scripts/*.js'],
         options: {
           debounceDelay: 1000,
           livereload: true
         }
       },
       data: {
-        files: ['../data/*.json'],
+        files: ['../json_db/*.json'],
         options: {
           debounceDelay: 1000,
           livereload: true
