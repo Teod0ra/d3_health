@@ -6,7 +6,7 @@ module.exports = function (grunt) {
         options: {
           livereload: true,
           port: 9000,
-          hostname: '192.168.0.182',
+          hostname: 'localhost',
           base: '../'
         }
       }
@@ -41,7 +41,7 @@ module.exports = function (grunt) {
     },
     open: {
       dev: {
-        path: 'http://192.168.0.182:9000/index.html',
+        path: 'http://localhost:9000/index.html',
         app: 'Chrome'
       }
     }
