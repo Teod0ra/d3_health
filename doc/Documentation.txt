@@ -1,0 +1,41 @@
+Jas da ti kazham deka kje pocnam od vikendov aktivno da rabotam na timska, vekje zamislata mi e napravena, bazite gi prevzemav za potrebnite grafici :) 
+Kje ti objasnam shto kako kje ima ( ova mi e prvicna zamisla mozhe da ima promeni vo nea )
+I spored ova mozes da pochnes da ja pishuvash dokumentacijata, treba da e okulu 10tina strani kolku shto znam
+Teodora Cvetanovska
+3:29pm
+Teodora Cvetanovska
+Vaka , mislam da ima tri oddelni strani za grafici ( tri html strani ) 
+1. Tobacco 
+1.1 najdov podatoci na tema Korisnici na cigari vo godishno nivo po drzhavi 
+Pa, tuka mislam so drop down da se bira drzhavata i koga kje se izbere da se nacrta eden bar chart kojshto X oskata kje e Godina a Y oskata kje e Vrednost ( odnosno kolku koristele cigari po godini za odbranata drzhava)
+Teodora Cvetanovska
+3:31pm
+Teodora Cvetanovska
+1.2 Polisi shto se primenuvaat za pushenje cigari ( dali se banirani od advertise i slichno ) 
+Mislam da e horizontalen bar chart (http://i.stack.imgur.com/uExYc.png)
+Kojsto sekoj stack posebno kje znachi razlicna polisa ( tuka imam i zamisla koga kje se stisne na stack-ot da se prikazhat i drzhavite shto go imaat implementirano istiot ama kje vidam kako kje bide )
+Teodora Cvetanovska
+3:32pm
+Teodora Cvetanovska
+1.3 Average tax  za cigari 
+Nekoj vakov slicen grafik (https://changelog.com/wp-content/uploads/chartkick.png) Odnosno X oskata kje se drzhavite a Y oskata kje e vrednost na tax za cigarite
+Teodora Cvetanovska
+3:39pm
+Teodora Cvetanovska
+2 Tab ( vtorata html strana ) Planiram da e neshto za Patishta ( Roads ) 
+2.1 Broj na registrirani vozila
+Od  strana da ima nesto kako dropdown i da se bira drzhava i za istata taa planiram od stranata da ima eden pie chart kolku % se registrirani a kolku ne se. 
+2.2 Broj na smrtni slucaevi ( tuka nekoi baneri kje vmetnam kako da se pazi na patot i slicno ) 
+tuka planiram isto vakov nekoj grafik 
+http://3.bp.blogspot.com/-uIGqacjV0HA/UOPeQDtvHeI/AAAAAAAAAAU/RabIDMBB6po/s1600/scatter2.png
+Kade shto X oskata kje e drzhava, a Y kje e Vrednost na smrtni slucaevi
+Teodora Cvetanovska
+3:40pm
+Teodora Cvetanovska
+2.3 Standardi na vozilata 
+Ova go vmetnav za da go ima i ovoj grafik 
+http://www.datavizcatalogue.com/methods/images/top_images/donut_chart.png
+Standardite se kako kolku drzhavi imaat vo vozilata seat belts, ABS i slichno
+Tretata html strana planiram da e Vakcinacija
+Gore da ima tri pod naslovi shto kje mozes da si izberesh ( Tri razlicni Tipovi na vakcinacii ) 
+I tuka kje stavam nekoj bar chart ili neshto slichno
