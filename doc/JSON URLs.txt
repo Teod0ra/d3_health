@@ -1,0 +1,62 @@
+TOBACCO
+
+
+TOBACCO USE
+http://apps.who.int/gho/athena/data/GHO/TOBACCO_0000000344,TOBACCO_0000000192.json?profile=simple&filter=COUNTRY:*;REGION:*;SEX:*
+
+TOBACCO POLICES
+
+http://apps.who.int/gho/athena/data/GHO/M_Group,P_Group,O_Group,W_Group,W-MM_Group,E_Group,R_Group.json?profile=simple&filter=COUNTRY:*;REGION:*
+
+http://www.who.int/gho/tobacco/policies/en/
+
+
+CIGARETTE TAXES
+
+http://apps.who.int/gho/athena/data/GHO/R_Sp_excise_average,R_Ad_val_average,R_imp_duty_average,R_VAT_average,R_Other_average,R_total_tax_average.json?profile=simple&filter=COUNTRY:*;REGION:*
+
+
+REGULATIONS ABOUT SMOKING ON PACKING
+
+http://apps.who.int/gho/data/node.main.TOB1286?lang=en (YES/NO)
+
+
+
+
+
+IMMUNIZATION
+
+
+
+HEPATITIS B IMMUNIZATION
+http://apps.who.int/gho/athena/data/GHO/WHS4_117.json?profile=simple&filter=COUNTRY:*
+
+
+Diphtheria tetanus toxoid and pertussis immunization
+http://apps.who.int/gho/athena/data/GHO/WHS4_100.json?profile=simple&filter=COUNTRY:*
+
+
+Measles immunization
+
+http://apps.who.int/gho/athena/data/GHO/WHS8_110.json?profile=simple&filter=COUNTRY:*
+
+https://www.amcharts.com/ (za graficite)
+
+
+
+ROADS
+
+registered vehicles
+
+http://apps.who.int/gho/athena/data/GHO/RS_194.json?profile=simple&filter=COUNTRY:*
+
+
+roads deaths
+
+http://apps.who.int/gho/athena/data/GHO/RS_196,RS_198.json?profile=simple&filter=COUNTRY:*
+
+
+vehicles standards
+
+http://apps.who.int/gho/athena/data/GHO/RS_242.json?profile=simple&filter=COUNTRY:*
+
