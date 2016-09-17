@@ -3,36 +3,15 @@ TOBACCO
 
 TOBACCO USE
 http://apps.who.int/gho/athena/data/GHO/TOBACCO_0000000344,TOBACCO_0000000192.json?profile=simple&filter=COUNTRY:*;REGION:*;SEX:*
-sample fact
-
-Use only "Region" Europe.
-show Countries in dropdown.
-
-X axis is year
-Y axis is Value
-
-{
-      "dim": {
-        "PUBLISHSTATE": "Published",
-        "REGION": "Europe",
-        "COUNTRY": "Serbia",
-        "YEAR": "2013",
-        "SEX": "Female",
-        "GHO": "Prevalence of current tobacco use among adolescents aged 13-15 years"
-      },
-      "Comments": "Cigarette smoking only",
-      "Value": "17.4"
-    }
-
-
-
-
 
 TOBACCO POLICES
 
 http://apps.who.int/gho/athena/data/GHO/M_Group,P_Group,O_Group,W_Group,W-MM_Group,E_Group,R_Group.json?profile=simple&filter=COUNTRY:*;REGION:*
 
-http://www.who.int/gho/tobacco/policies/en/
+Horizontal bar chart = 
+http://bl.ocks.org/kiranml1/6872226
+X = broj na primena na polisi 
+Y  = polisi
 
 
 CIGARETTE TAXES
@@ -40,9 +19,10 @@ CIGARETTE TAXES
 http://apps.who.int/gho/athena/data/GHO/R_Sp_excise_average,R_Ad_val_average,R_imp_duty_average,R_VAT_average,R_Other_average,R_total_tax_average.json?profile=simple&filter=COUNTRY:*;REGION:*
 
 
-REGULATIONS ABOUT SMOKING ON PACKING
+http://bl.ocks.org/d3noob/b3ff6ae1c120eea654b5
+X oska - Drzhavi 
+Y oska - vrednost na tax za cigari 
 
-http://apps.who.int/gho/data/node.main.TOB1286?lang=en (YES/NO)
 
 
 
@@ -54,17 +34,29 @@ IMMUNIZATION
 
 HEPATITIS B IMMUNIZATION
 http://apps.who.int/gho/athena/data/GHO/WHS4_117.json?profile=simple&filter=COUNTRY:*
+ BAR CHART 
+
+X - Country 
+Y - Value 
 
 
 Diphtheria tetanus toxoid and pertussis immunization
 http://apps.who.int/gho/athena/data/GHO/WHS4_100.json?profile=simple&filter=COUNTRY:*
+ BAR CHART 
+
+X - Country 
+Y - Value 
 
 
 Measles immunization
 
 http://apps.who.int/gho/athena/data/GHO/WHS8_110.json?profile=simple&filter=COUNTRY:*
 
-https://www.amcharts.com/ (za graficite)
+ BAR CHART 
+
+X - Country 
+Y - Value 
+
 
 
 
@@ -74,13 +66,26 @@ registered vehicles
 
 http://apps.who.int/gho/athena/data/GHO/RS_194.json?profile=simple&filter=COUNTRY:*
 
+https://bl.ocks.org/mbostock/3887235
+
+how much there are registered vehicles in one country 
+choosing country with drop down
+
+
+
 
 roads deaths
 
 http://apps.who.int/gho/athena/data/GHO/RS_196,RS_198.json?profile=simple&filter=COUNTRY:*
 
 
+https://bl.ocks.org/mbostock/3883245
+X - Drzhavata 
+Y - Vrednost na smrtni slucaevi
+
 vehicles standards
 
 http://apps.who.int/gho/athena/data/GHO/RS_242.json?profile=simple&filter=COUNTRY:*
 
+https://bl.ocks.org/mbostock/3887193
+Broj na standardi kolku ima vo drzhavite ... Seat belts i slicno

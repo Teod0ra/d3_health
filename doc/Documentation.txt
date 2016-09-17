@@ -39,3 +39,7 @@ Standardite se kako kolku drzhavi imaat vo vozilata seat belts, ABS i slichno
 Tretata html strana planiram da e Vakcinacija
 Gore da ima tri pod naslovi shto kje mozes da si izberesh ( Tri razlicni Tipovi na vakcinacii ) 
 I tuka kje stavam nekoj bar chart ili neshto slichno
+
+
+
+
