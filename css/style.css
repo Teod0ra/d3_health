@@ -5,13 +5,13 @@ body {
 
 }
 
-h2 {
+h2, h3 {
     color: steelblue;
-    font-family: 'Trocchi', serif;
-    font-size: 45px;
-    font-weight: normal;
-    line-height: 48px;
-    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 32px;
+    margin: 0 0 14px;
 }
 
 .jumbo {
@@ -55,6 +55,7 @@ h2 {
     background-color: rgba(253, 253, 255, 0.3);
     border-radius: 3.2rem;
     cursor: pointer;
+
 }
 
 .divider {
@@ -66,13 +67,11 @@ h2 {
 
 .jumbotron {
     background: none;
-    color: cadetblue;
     font-weight: bolder;
 
 }
 
 .titles {
-    color: cadetblue;
     font-weight: bolder;
 }
 
@@ -80,10 +79,10 @@ h2 {
     font-weight: bolder;
     background-color: rgba(255, 255, 255, 0.5);
 
-
 }
-.navbar-default .navbar-nav>li>a{
-    color:steelblue;
+
+.navbar-default .navbar-nav > li > a {
+    color: steelblue;
 }
 
 #addCountry {
