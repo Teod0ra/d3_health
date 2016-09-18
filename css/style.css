@@ -1,27 +1,39 @@
-body{
+body {
     background-image: url("../images/background.jpg");
     background-repeat: repeat;
+    font-family: 'Trocchi', serif;
 
 }
 
+h2 {
+    color: steelblue;
+    font-family: 'Trocchi', serif;
+    font-size: 45px;
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0;
+}
 
-
-.jumbo{
+.jumbo {
     margin-top: 10%;
     background: rgb(249, 255, 251); /* This is for ie8 and below */
     background: rgba(249, 255, 251, 0.5);
 }
-#finkiLogo{
-    width:80%;
+
+#finkiLogo {
+    width: 80%;
 }
-#finkiPic{
+
+#finkiPic {
     width: 30px;
     height: 30px;
 }
+
 #page {
     padding: 7% 8%;
 }
-#immunizationGraph{
+
+#immunizationGraph {
     margin-top: 5%;
 }
 
@@ -44,31 +56,37 @@ body{
     border-radius: 3.2rem;
     cursor: pointer;
 }
-.divider{
-    margin-top:100px;
-    margin-left:auto;
+
+.divider {
+    margin-top: 100px;
+    margin-left: auto;
     margin-right: auto;
     display: block;
 }
-.jumbotron{
+
+.jumbotron {
     background: none;
     color: cadetblue;
     font-weight: bolder;
 
-
 }
-.titles{
+
+.titles {
     color: cadetblue;
     font-weight: bolder;
 }
+
 .navbar {
     font-weight: bolder;
     background-color: rgba(255, 255, 255, 0.5);
 
+
+}
+.navbar-default .navbar-nav>li>a{
+    color:steelblue;
 }
 
-
-#addCountry{
+#addCountry {
     overflow-y: scroll;
     height: 150px;
 }
@@ -92,7 +110,7 @@ body{
 }
 
 .carousel-caption {
-    background-color: rgba(0,0,0,.5);
+    background-color: rgba(0, 0, 0, .5);
     position: absolute;
     left: 0;
     right: 0;
@@ -115,15 +133,12 @@ body{
     text-align: right;
     /*color:cornflowerblue;*/
 
-
-
 }
 
 .carousel-control.left,
 .carousel-control.right {
-    background:none;
+    background: none;
 }
-
 
 /* ------------------- Section Styling - Not needed for carousel styling ------------------- */
 
@@ -151,6 +166,7 @@ body{
     }
 
 }
+
 .dropdown-item {
     cursor: pointer;
 }
@@ -171,6 +187,7 @@ body{
     stroke: steelblue;
     stroke-width: 2px;
 }
+
 #vehiclesRegistered .arc text {
     font: 10px sans-serif;
     text-anchor: middle;
