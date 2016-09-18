@@ -8,7 +8,7 @@
   var y_use = d3.scale.ordinal().rangeRoundBands([0, height], 0.1);
 
   var x_use = d3.scale.linear().range([0, width]);
-  var color = d3.scale.ordinal().range(["#6495ed", "#1e90ff", "#87cefa"]);
+  var color = d3.scale.ordinal().range(["#6495ed", "#5f9ea0", "#87cefa", "#1e90ff"]);
 
   var xAxis_use = d3.svg.axis()
     .scale(x_use)

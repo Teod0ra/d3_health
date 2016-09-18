@@ -2,7 +2,7 @@
 
   var registeredVehiclesUrl = 'json_db/roads_registered_vehicles.json';
 
-  var colors = ["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"];
+  var colors = ["#5f9ea0", "#87cefa", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"];
   var notApplicable = '-';
 
   var regionsData = {};
@@ -48,7 +48,7 @@
 
 
     var color = d3.scale.ordinal()
-      .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c"]);
+      .range(["#87cefa", "#5f9ea0", "#6495ed", "#1e90ff", "#00008b", "#b0c4de"]);
 
     var arc = d3.svg.arc()
       .outerRadius(radius - 10)
