@@ -213,6 +213,7 @@ h2, h3 {
 
 #immunizationGraph .x.axis path {
     display: none;
+    
 }
 #hepatitisBtn, #measlesBtn, #toxidBtn{
     background-color:lightsteelblue;
