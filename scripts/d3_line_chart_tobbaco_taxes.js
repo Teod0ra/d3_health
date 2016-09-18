@@ -65,6 +65,15 @@
       .attr("class", "line")
       .attr("d", valueline(data));
 
+    svg.selectAll("dot")
+        .data(data)
+        .enter().append("circle")
+        .attr("r", 3.5)
+        .attr("cx", function(d) { return x(d.country); })
+        .attr("cy", function(d) { return y(d.value); })
+
+
+
     // Add the X Axis
     svg.append("g")
       .attr("class", "x axis")
