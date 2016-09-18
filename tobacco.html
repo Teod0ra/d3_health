@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <link rel="icon" href="http://www.euro.who.int/__data/assets/image/0005/243581/who-europe-250.png">
+    <title>Светска здравствена организација | WHO</title>
+
+
+    <script type="text/javascript" src="scripts/jquery/jquery-2.1.0.min.js"></script>
+    <script type="text/javascript" src="scripts/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="scripts/d3/d3.min.js" charset="utf-8"> </script>
+
+    <link href="scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div id="navbarHolder">
+
+    </div>
+
+</div>
+
+
+<div id="page" class=" container">
+
+    <h2>Преглед на корисници на цигари по држава:</h2>
+
+    <div class="row">
+        <div id="tobaccoCountry" class="btn-group col-md-6">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+                <span id="tobacoCountryName">Macedonia</span> <span class="caret"></span>
+            </button>
+            <ul id="addCountry" class="dropdown-menu">
+
+
+            </ul>
+        </div>
+
+        <div class="col-md-6 tobbacoGraph">
+            <!--HERE GOES THE GRAPH-->
+            <!--<img src="http://informatics.sepa.org.uk/SpotfireWeb/Help/GUID-418B2936-C878-4771-B874-FA8ECAA39941-display.png">-->
+
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <h2>Преглед на полиси за пушење цигари:</h2>
+
+        <div class="col-md-6 tobaccoPolicies" id="tobaccoPolicies">
+            <!--<img src="http://i.stack.imgur.com/uExYc.png">-->
+        </div>
+    </div>
+
+
+    <div id="tobaccoAverageTaxes">
+        <h2>Средна вредност на таксите за цигари:</h2>
+        <div class="tobaccoAverageTaxes">
+        <!--<img src="https://changelog.com/wp-content/uploads/chartkick.png">-->
+        </div>
+        <!--<p>X- drzhavi</p>
+        <p>Y- vrednost na taksi</p> -->
+
+    </div>
+
+
+</div>
+
+
+<div class="container marketing">
+
+    <div id="footerHolder"></div>
+
+
+</div>
+<!-- /.container -->
+<script type="text/javascript" src="scripts/pageLoader.js"></script>
+<script type="text/javascript" src="scripts/webmanage.js"></script>
+<script type="text/javascript" src="scripts/d3_bar_chart_tobacco_use.js"></script>
+<script type="text/javascript" src="scripts/d3_bar_chart_tobacco_policies.js"></script>
+<script type="text/javascript" src="scripts/d3_line_chart_tobbaco_taxes.js"></script>
+</body>
+
+</html>

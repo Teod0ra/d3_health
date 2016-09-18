@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <link rel="icon" href="http://www.euro.who.int/__data/assets/image/0005/243581/who-europe-250.png">
+  <title>Светска здравствена организација | WHO</title>
+
+
+  <script type="text/javascript" src="scripts/jquery/jquery-2.1.0.min.js"></script>
+  <script type="text/javascript" src="scripts/bootstrap/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="scripts/d3/d3.min.js" charset="utf-8"> </script>
+
+  <link href="scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+  <div id="navbarHolder"></div>
+
+</div>
+
+
+
+<div id="page" class="container">
+
+
+  <div class="row">
+    <h2>Број на регистрирани возила:</h2>
+    <!--<div  class="btn-group col-md-6">-->
+      <!--<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"-->
+              <!--aria-expanded="false">-->
+        <!--Одбери држава: <span class="caret"></span>-->
+      <!--</button>-->
+      <!--<ul id="addCountry" class="dropdown-menu">-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+
+      <!--</ul>-->
+    <!--</div>-->
+    <div id="vehiclesRegistered" class="col-md-6 vehiclesRegistered">
+    </div>
+
+  </div>
+
+  <div class="row">
+    <h2>Број на смртни случаеви на патиштата:</h2>
+    <div class="deathsPerCountry"></div>
+    <!--<img src="http://3.bp.blogspot.com/-uIGqacjV0HA/UOPeQDtvHeI/AAAAAAAAAAU/RabIDMBB6po/s1600/scatter2.png">
+    <p>X drzava</p>
+    <p>Y vrednost</p>-->
+  </div>
+
+
+  <div class="row">
+    <h2>Стандарди на возилата</h2>
+
+    <div class="col-md-12 standardsYes">
+      <h3>Колку се применуваат стандардите?</h3>
+
+    </div>
+
+    <div class="col-md-12 standardsNo">
+      <h3>Колку не се почитуваат стандардите?</h3>
+
+    </div>
+    <!--<img src="http://www.datavizcatalogue.com/methods/images/top_images/donut_chart.png">-->
+  </div>
+
+
+
+
+</div>
+
+
+<div class="container marketing">
+
+  <div id="footerHolder"></div>
+
+
+</div>
+<!-- /.container -->
+<script type="text/javascript" src="scripts/pageLoader.js"></script>
+<script type="text/javascript" src="scripts/webmanage.js"></script>
+<script src="scripts/d3_pie_chart_roads_registered_vehicles.js"></script>
+<script src="scripts/d3_bar_chart_road_deaths.js"></script>
+<script src="scripts/d3_donut_chart_roads_standars.js"></script>
+<script src="scripts/d3_donut_chart_roads_standards_value_no.js"></script>
+</body>
+
+</html>
