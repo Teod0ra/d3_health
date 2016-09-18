@@ -1,0 +1,3785 @@
+{
+  "dimension": [
+    {
+      "label": "GHO",
+      "display": "Indicator"
+    },
+    {
+      "label": "PUBLISHSTATE",
+      "display": "PUBLISH STATES"
+    },
+    {
+      "label": "YEAR",
+      "display": "Year"
+    },
+    {
+      "label": "REGION",
+      "display": "WHO region"
+    },
+    {
+      "label": "COUNTRY",
+      "display": "Country"
+    }
+  ],
+  "fact": [
+    {
+      "dim": {
+        "YEAR": "2013",
+        "COUNTRY": "Benin",
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "27.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Lao People's Democratic Republic"
+      },
+      "Value": "14.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "COUNTRY": "Latvia",
+        "YEAR": "2013"
+      },
+      "Value": "10.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Luxembourg"
+      },
+      "Value": "8.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Madagascar",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "28.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Marshall Islands",
+        "REGION": "Western Pacific"
+      },
+      "Value": "5.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Mauritania",
+        "YEAR": "2013",
+        "REGION": "Africa"
+      },
+      "Value": "24.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Micronesia (Federated States of)",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "1.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Oman",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013"
+      },
+      "Value": "25.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Qatar",
+        "REGION": "Eastern Mediterranean"
+      },
+      "Value": "15.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Samoa",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "15.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Spain",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "3.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Sri Lanka",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "South-East Asia"
+      },
+      "Value": "17.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Yemen",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Eastern Mediterranean"
+      },
+      "Value": "21.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Solomon Islands",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "108 [96 - 120]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "South-East Asia",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Bhutan",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "114 [98 - 130]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Cabo Verde",
+        "REGION": "Africa",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "130 [113 - 147]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "South-East Asia",
+        "COUNTRY": "Timor-Leste"
+      },
+      "Comments": "Regression estimate",
+      "Value": "188 [158 - 219]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Namibia",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "551 [474 - 628]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Lesotho",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "584 [491 - 677]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Nicaragua"
+      },
+      "Comments": "Regression estimate",
+      "Value": "931 [843 - 1 020]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Turkmenistan",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "914 [844 - 983]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Eritrea",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 527 [1 249 - 1 805]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Africa",
+        "COUNTRY": "Zimbabwe",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 985 [3 319 - 4 652]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Burkina Faso",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "5 072 [4 064 - 6 080]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Malawi",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "5 732 [4 606 - 6 858]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "COUNTRY": "Mozambique",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "8 173 [6 502 - 9 843]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Saudi Arabia",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "7 898 [7 002 - 8 795]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Antigua and Barbuda",
+        "REGION": "Americas",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Argentina",
+        "REGION": "Americas",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "5 619"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Australia",
+        "YEAR": "2013",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "1 252"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Belize"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "81"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Greece",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "1 013"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Bulgaria",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "8.3"
+    },
+    {
+      "dim": {
+        "REGION": "Western Pacific",
+        "COUNTRY": "Cook Islands",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24.2"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Democratic Republic of the Congo",
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "33.2"
+    },
+    {
+      "dim": {
+        "COUNTRY": "El Salvador",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "21.1"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Eritrea",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24.1"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Estonia",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Germany",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Value": "4.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Ghana"
+      },
+      "Value": "26.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Israel",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe"
+      },
+      "Value": "3.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "COUNTRY": "Jamaica",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "11.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Japan"
+      },
+      "Value": "4.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "COUNTRY": "Kuwait",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "18.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Kyrgyzstan",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "22.0"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Albania",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "15.1"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Bahamas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "13.8"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Belize",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Iran (Islamic Republic of)",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "24 896"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Italy",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "3 721"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Kuwait",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "629"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Lithuania",
+        "REGION": "Europe"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "320"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Mexico",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "15 062"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Russian Federation",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "27 025"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "South Africa",
+        "REGION": "Africa"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "13 273"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Mali",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "25.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Sweden",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "2.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Switzerland",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe"
+      },
+      "Value": "3.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "COUNTRY": "Tunisia"
+      },
+      "Value": "24.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "United Republic of Tanzania",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "32.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Vanuatu"
+      },
+      "Comments": "Regression estimate",
+      "Value": "42 [37 - 47]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Sao Tome and Principe",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "60 [47 - 73]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Swaziland"
+      },
+      "Comments": "Regression estimate",
+      "Value": "303 [263 - 343]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Gabon",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "383 [316 - 450]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Lebanon",
+        "REGION": "Eastern Mediterranean"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 088 [962 - 1 215]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Papua New Guinea",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 232 [1 058 - 1 405]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Liberia"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 448 [1 144 - 1 752]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Tajikistan",
+        "REGION": "Europe"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 543 [1 387 - 1 699]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Togo"
+      },
+      "Comments": "Regression estimate",
+      "Value": "2 123 [1 719 - 2 526]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Somalia",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "2 664 [2 092 - 3 237]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Guinea",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 211 [2 640 - 3 781]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Nepal",
+        "YEAR": "2013",
+        "REGION": "South-East Asia",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "4 713 [3 880 - 5 546]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Monaco",
+        "YEAR": "2013"
+      },
+      "Value": ".0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Mongolia",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "21.0"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Angola",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "26.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "South-East Asia",
+        "YEAR": "2013",
+        "COUNTRY": "Myanmar",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "10 809 [8 790 - 12 829]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Pakistan"
+      },
+      "Comments": "Regression estimate",
+      "Value": "25 781 [20 979 - 30 582]"
+    },
+    {
+      "dim": {
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Argentina",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "13.6"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Botswana",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "23.6"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Cameroon",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "27.6"
+    },
+    {
+      "dim": {
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Chile",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "12.4"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Costa Rica",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "13.9"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Djibouti",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24.7"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Dominica",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "15.3"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Dominican Republic",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "29.3"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "COUNTRY": "Ecuador",
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "20.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "COUNTRY": "Guatemala",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "19.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Guinea",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa"
+      },
+      "Value": "27.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Indonesia",
+        "YEAR": "2013",
+        "REGION": "South-East Asia"
+      },
+      "Value": "15.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Kiribati",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Western Pacific"
+      },
+      "Value": "2.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Maldives",
+        "YEAR": "2013",
+        "REGION": "South-East Asia"
+      },
+      "Value": "3.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Madagascar"
+      },
+      "Comments": "Regression estimate",
+      "Value": "6 506 [5 361 - 7 650]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Iraq",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "6 826 [5 507 - 8 146]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "COUNTRY": "Morocco"
+      },
+      "Comments": "Regression estimate",
+      "Value": "6 870 [5 831 - 7 910]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Netherlands",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "3.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Panama",
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "10.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Republic of Korea",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Western Pacific"
+      },
+      "Value": "12.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "COUNTRY": "Romania"
+      },
+      "Value": "8.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Eastern Mediterranean",
+        "COUNTRY": "Saudi Arabia",
+        "YEAR": "2013"
+      },
+      "Value": "27.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Slovakia",
+        "REGION": "Europe"
+      },
+      "Value": "6.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "COUNTRY": "Somalia",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "25.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Bulgaria",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "601"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Canada",
+        "YEAR": "2013",
+        "REGION": "Americas"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "2 114"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Cuba",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "840"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Cyprus",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "59"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Czech Republic",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "654"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "El Salvador",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "1 339"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "South-East Asia",
+        "COUNTRY": "India",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate projected from 2001-2003 data",
+      "Value": "207 551"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Portugal",
+        "YEAR": "2013"
+      },
+      "Comments": "Death registration data",
+      "Value": "828"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Serbia",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "735"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Switzerland"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "269"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Uruguay",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "567"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "COUNTRY": "Kenya",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "29.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Tonga"
+      },
+      "Value": "7.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Trinidad and Tobago",
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "14.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Uzbekistan"
+      },
+      "Value": "11.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Vanuatu",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Western Pacific"
+      },
+      "Value": "16.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Guinea-Bissau",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "468 [387 - 548]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Bosnia and Herzegovina",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "676 [607 - 745]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Mauritania",
+        "REGION": "Africa",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "952 [788 - 1 116]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Zambia",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 586 [2 914 - 4 257]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Libya",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "4 554 [3 973 - 5 136]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Afghanistan"
+      },
+      "Comments": "Regression estimate",
+      "Value": "4 734 [4 006 - 5 461]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Sudan"
+      },
+      "Comments": "Regression estimate",
+      "Value": "9 221 [7 746 - 10 697]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Uganda",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "10 280 [7 820 - 12 739]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "South-East Asia",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Indonesia"
+      },
+      "Comments": "Regression estimate",
+      "Value": "38 279 [32 079 - 44 479]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe",
+        "COUNTRY": "Azerbaijan",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "943"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Bahamas",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "52"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Chile",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "2 179"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Western Pacific",
+        "COUNTRY": "China"
+      },
+      "Comments": "Death registration data",
+      "Value": "261 367"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "COUNTRY": "Estonia",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death registration data",
+      "Value": "90"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "COUNTRY": "Fiji",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "51"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Finland",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "258"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Guyana",
+        "REGION": "Americas",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "138"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Hungary"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "765"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Iceland"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "15"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "COUNTRY": "Jamaica",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "320"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Japan",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Death registration data",
+      "Value": "5 971"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Malta",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death registration data",
+      "Value": "22"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Mauritius",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death registration data",
+      "Value": "152"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Netherlands",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "574"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Norway",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "192"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Oman",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Eastern Mediterranean"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "924"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "Poland",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "3 931"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Qatar",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "330"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Lebanon",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "22.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Lesotho",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "28.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Malta"
+      },
+      "Value": "5.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Montenegro",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Value": "11.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Morocco",
+        "REGION": "Eastern Mediterranean"
+      },
+      "Value": "20.8"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Bangladesh",
+        "REGION": "South-East Asia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "13.6"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Barbados",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6.7"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Belarus",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "13.7"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "COUNTRY": "Brazil",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "23.4"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Canada",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6.0"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Cuba",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7.5"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Fiji",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5.8"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Finland",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "4.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Gabon"
+      },
+      "Value": "22.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Iran (Islamic Republic of)",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "32.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Kazakhstan",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Value": "24.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "COUNTRY": "New Zealand",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "6.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Peru",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas"
+      },
+      "Value": "13.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Russian Federation",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Value": "18.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "San Marino",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Value": "3.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Sao Tome and Principe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa"
+      },
+      "Value": "31.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Senegal",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "27.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Slovenia",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe"
+      },
+      "Value": "6.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "COUNTRY": "Tajikistan",
+        "YEAR": "2013"
+      },
+      "Value": "18.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "San Marino",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Singapore",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "197"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "South-East Asia",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Thailand",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data ",
+      "Value": "24 237"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas",
+        "COUNTRY": "United States of America",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "34 064"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Denmark",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Philippines",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "10.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Portugal",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "7.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Saint Vincent and the Grenadines"
+      },
+      "Value": "8.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Serbia",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Value": "7.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Seychelles"
+      },
+      "Value": "8.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Sierra Leone"
+      },
+      "Value": "27.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Sudan"
+      },
+      "Value": "24.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Suriname",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas"
+      },
+      "Value": "19.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Macedonia",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Value": "9.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Botswana",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "477 [412 - 542]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Gambia",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "544 [438 - 650]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "United Arab Emirates",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Eastern Mediterranean"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 021 [845 - 1 198]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Cambodia",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Regression estimate",
+      "Value": "2 635 [2 150 - 3 120]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Tunisia",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "2 679 [2 346 - 3 012]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Benin"
+      },
+      "Comments": "Regression estimate",
+      "Value": "2 855 [2 398 - 3 312]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Sri Lanka",
+        "REGION": "South-East Asia",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 691 [3 245 - 4 137]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Niger",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "4 706 [3 741 - 5 670]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "COUNTRY": "Yemen",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "5 248 [4 426 - 6 069]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "Andorra",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Belgium",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "746"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Brazil",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "46 935"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Colombia"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "8 107"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Dominica"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "11"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Ecuador"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "3 164"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Eastern Mediterranean",
+        "COUNTRY": "Egypt",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "10 466"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "COUNTRY": "Germany",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "3 540"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Guatemala",
+        "YEAR": "2013",
+        "REGION": "Americas"
+      },
+      "Comments": "Death registration data",
+      "Value": "2 939"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Kyrgyzstan",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death registration data",
+      "Value": "1 220"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Latvia"
+      },
+      "Comments": "Death registration data",
+      "Value": "205"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Luxembourg",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Comments": "Death registration data",
+      "Value": "46"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Palau",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "COUNTRY": "Panama",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death registration data",
+      "Value": "386"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Gambia",
+        "REGION": "Africa"
+      },
+      "Value": "29.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Guyana"
+      },
+      "Value": "17.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Honduras",
+        "REGION": "Americas"
+      },
+      "Value": "17.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Ireland",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Value": "4.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Malawi"
+      },
+      "Value": "35.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "COUNTRY": "Mauritius",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013"
+      },
+      "Value": "12.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Mexico",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas"
+      },
+      "Value": "12.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Mozambique",
+        "REGION": "Africa"
+      },
+      "Value": "31.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Myanmar",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "South-East Asia"
+      },
+      "Value": "20.3"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Afghanistan",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "15.5"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Algeria",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "23.8"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Australia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5.4"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Austria",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5.4"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Bhutan",
+        "REGION": "South-East Asia",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "15.1"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Burkina Faso",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "30.0"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa",
+        "COUNTRY": "Cabo Verde",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "26.1"
+    },
+    {
+      "dim": {
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Cambodia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "17.4"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Congo",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "26.4"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Cyprus",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5.2"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Czech Republic",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Namibia",
+        "YEAR": "2013"
+      },
+      "Value": "23.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "COUNTRY": "Nigeria",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "20.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "COUNTRY": "Norway",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "3.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Pakistan",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean"
+      },
+      "Value": "14.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "COUNTRY": "Paraguay",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "1 408"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Romania",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "1 881"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "COUNTRY": "Saint Lucia",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "33"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Saint Vincent and the Grenadines",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas",
+        "YEAR": "2013"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "Slovakia",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Death registration data",
+      "Value": "360"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Spain",
+        "REGION": "Europe"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "1 730"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "Macedonia",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "198"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Rwanda",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "32.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Lao People's Democratic Republic",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "971 [795 - 1 147]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Saint Lucia",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas"
+      },
+      "Value": "18.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Singapore",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "3.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Thailand",
+        "REGION": "South-East Asia",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "36.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Bolivia (Plurinational State of)",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "2 476 [2 190 - 2 763]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Chad",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 089 [2 420 - 3 758]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Africa",
+        "COUNTRY": "Senegal",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 844 [3 214 - 4 474]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Cote d'Ivoire",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "4 924 [4 043 - 5 805]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Africa",
+        "COUNTRY": "Ghana",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "6 789 [5 877 - 7 701]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Malaysia",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "7 129 [6 050 - 8 209]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Kenya",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "12 891 [10 809 - 14 974]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "United Republic of Tanzania",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "16 211 [13 116 - 19 307]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Bangladesh",
+        "REGION": "South-East Asia"
+      },
+      "Comments": "Regression estimate",
+      "Value": "21 316 [17 349 - 25 283]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Democratic Republic of the Congo"
+      },
+      "Comments": "Regression estimate",
+      "Value": "22 419 [17 966 - 26 872]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Belarus",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "1 282"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Cook Islands",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Costa Rica",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "676"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Croatia",
+        "REGION": "Europe"
+      },
+      "Comments": "Death registration data",
+      "Value": "395"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Dominican Republic",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Americas"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "3 052"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Georgia",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "514"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "Ireland",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "188"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Israel",
+        "REGION": "Europe"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "277"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Micronesia (Federated States of)",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Monaco",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "0.00000"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Europe",
+        "COUNTRY": "Montenegro"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "74"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Philippines"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "10 379"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Republic of Moldova"
+      },
+      "Comments": "Death registration data",
+      "Value": "437"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "COUNTRY": "Slovenia",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "132"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Tonga",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Trinidad and Tobago",
+        "REGION": "Americas",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "189"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Turkey",
+        "YEAR": "2013",
+        "REGION": "Europe"
+      },
+      "Comments": "Death registration data",
+      "Value": "6 687"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Azerbaijan",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "10.0"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "COUNTRY": "Belgium",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6.7"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "COUNTRY": "China",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "18.8"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Colombia",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "16.8"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Egypt",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "12.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Georgia",
+        "REGION": "Europe"
+      },
+      "Value": "11.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "COUNTRY": "Hungary",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "7.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Iceland",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "4.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "COUNTRY": "Italy",
+        "YEAR": "2013"
+      },
+      "Value": "6.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Lithuania",
+        "YEAR": "2013"
+      },
+      "Value": "10.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Nepal",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "South-East Asia",
+        "YEAR": "2013"
+      },
+      "Value": "17.0"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Poland",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Value": "10.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Central African Republic",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 495 [1 169 - 1 821]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Honduras",
+        "REGION": "Americas"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 408 [1 288 - 1 529]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Sierra Leone",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 661 [1 334 - 1 988]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "South-East Asia",
+        "COUNTRY": "Timor-Leste"
+      },
+      "Value": "16.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Togo",
+        "YEAR": "2013",
+        "REGION": "Africa"
+      },
+      "Value": "31.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Turkmenistan",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Value": "17.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Uganda"
+      },
+      "Value": "27.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Eastern Mediterranean",
+        "COUNTRY": "United Arab Emirates",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013"
+      },
+      "Value": "10.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Value": "2.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Viet Nam",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "24.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Zambia"
+      },
+      "Value": "24.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Albania",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "478 [435 - 521]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Libya",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013"
+      },
+      "Value": "73.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Republic of Moldova",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "12.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Solomon Islands"
+      },
+      "Value": "19.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "South Africa"
+      },
+      "Value": "25.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Swaziland",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa",
+        "YEAR": "2013"
+      },
+      "Value": "24.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Turkey",
+        "YEAR": "2013"
+      },
+      "Value": "8.9"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "United States of America",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas"
+      },
+      "Value": "10.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "COUNTRY": "Uruguay",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "16.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Zimbabwe",
+        "REGION": "Africa",
+        "YEAR": "2013"
+      },
+      "Value": "28.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Samoa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "30 [27 - 33]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Djibouti",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "216 [185 - 247]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Armenia",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "546 [503 - 588]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Mongolia",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Regression estimate",
+      "Value": "597 [538 - 656]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Congo",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 174 [976 - 1 373]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Jordan",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "1 913 [1 633 - 2 193]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Rwanda",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 782 [3 022 - 4 541]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Mali",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "REGION": "Africa"
+      },
+      "Comments": "Regression estimate",
+      "Value": "3 920 [3 193 - 4 648]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Americas",
+        "COUNTRY": "Peru",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "4 234 [3 826 - 4 643]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Malaysia",
+        "REGION": "Western Pacific",
+        "YEAR": "2013"
+      },
+      "Value": "24.0"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Andorra",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Africa",
+        "COUNTRY": "Algeria",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "9 337 [7 985 - 10 689]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Ethiopia",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "23 837 [18 528 - 29 146]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "COUNTRY": "Nigeria",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Regression estimate",
+      "Value": "35 641 [27 949 - 43 332]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Austria",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "455"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013",
+        "COUNTRY": "Bahrain"
+      },
+      "Comments": "Death registration data",
+      "Value": "107"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Barbados",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "19"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Denmark",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "196"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "France",
+        "REGION": "Europe",
+        "YEAR": "2013"
+      },
+      "Comments": "Reported deaths ( replacing death registration estimate)",
+      "Value": "3 268"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "Kazakhstan",
+        "GHO": "Estimated number of road traffic deaths",
+        "YEAR": "2013"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "3 983"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Kiribati",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "South-East Asia",
+        "COUNTRY": "Maldives",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "12"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Marshall Islands",
+        "REGION": "Western Pacific",
+        "YEAR": "2013"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "New Zealand",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "272"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Republic of Korea",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "5 931"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Seychelles",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death reported (small population)",
+      "Value": "8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Suriname"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "103"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Sweden",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death registration data",
+      "Value": "272"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Death registration data",
+      "Value": "1 827"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Uzbekistan",
+        "REGION": "Europe",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Projected death registration data",
+      "Value": "3 240"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "GHO": "Estimated number of road traffic deaths",
+        "COUNTRY": "Viet Nam",
+        "REGION": "Western Pacific"
+      },
+      "Comments": "Projected national verbal autopsy survey data",
+      "Value": "22 419"
+    },
+    {
+      "dim": {
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Antigua and Barbuda",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6.7"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Armenia",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "18.3"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Bahrain",
+        "REGION": "Eastern Mediterranean",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "8.0"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Bolivia (Plurinational State of)",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "23.2"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "COUNTRY": "Bosnia and Herzegovina",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "17.7"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Central African Republic",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "32.4"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Chad",
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24.1"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa",
+        "COUNTRY": "Cote d'Ivoire",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24.2"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "COUNTRY": "Croatia",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "9.2"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Ethiopia",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "25.3"
+    },
+    {
+      "dim": {
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published",
+        "REGION": "Europe",
+        "COUNTRY": "France"
+      },
+      "Value": "5.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Greece",
+        "REGION": "Europe",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013"
+      },
+      "Value": "9.1"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "COUNTRY": "Guinea-Bissau",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Africa"
+      },
+      "Value": "27.5"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "South-East Asia",
+        "YEAR": "2013",
+        "COUNTRY": "India"
+      },
+      "Value": "16.6"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "YEAR": "2013",
+        "COUNTRY": "Iraq"
+      },
+      "Value": "20.2"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Jordan",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "26.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Liberia"
+      },
+      "Value": "33.7"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Angola",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "5 769 [4 626 - 6 912]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "YEAR": "2013",
+        "COUNTRY": "Cameroon",
+        "REGION": "Africa",
+        "GHO": "Estimated number of road traffic deaths"
+      },
+      "Comments": "Regression estimate",
+      "Value": "6 136 [5 035 - 7 236]"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "COUNTRY": "Nicaragua"
+      },
+      "Value": "15.3"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "COUNTRY": "Niger",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "26.4"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "COUNTRY": "Palau",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "4.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Papua New Guinea",
+        "YEAR": "2013",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)"
+      },
+      "Value": "16.8"
+    },
+    {
+      "dim": {
+        "PUBLISHSTATE": "Published",
+        "GHO": "Estimated road traffic death rate (per 100 000 population)",
+        "COUNTRY": "Paraguay",
+        "REGION": "Americas",
+        "YEAR": "2013"
+      },
+      "Value": "20.7"
+    }
+  ]
+}
