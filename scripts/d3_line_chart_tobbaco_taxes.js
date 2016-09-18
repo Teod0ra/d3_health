@@ -18,6 +18,8 @@
   var yAxis = d3.svg.axis().scale(y)
     .orient("left");
 
+
+
 // Define the line
   var valueline = d3.svg.line()
     .x(function(d) {  console.log("x = " + x(d.country)); return x(d.country); })
@@ -31,6 +33,8 @@
     .append("g")
     .attr("transform",
     "translate(" + margin.left + "," + margin.top + ")");
+
+
 
 // Get the data
   d3.json(tobbacoTaxesUrl, function(error, tobbacoData) {
@@ -54,6 +58,7 @@
 
     console.log(data);
 
+
     // Scale the range of the data
     x.domain(data.map(function (d) {return  d.country}));
     y.domain([0, d3.max(data, function(d) { return d.value; })]);
@@ -70,7 +75,8 @@
         .enter().append("circle")
         .attr("r", 3.5)
         .attr("cx", function(d) { return x(d.country); })
-        .attr("cy", function(d) { return y(d.value); })
+        .attr("cy", function(d) { return y(d.value); });
+
 
 
 

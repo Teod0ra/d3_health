@@ -214,3 +214,11 @@ h2, h3 {
 #immunizationGraph .x.axis path {
     display: none;
 }
+#hepatitisBtn, #measlesBtn, #toxidBtn{
+    background-color:lightsteelblue;
+    color:darkblue;
+    font-weight: 400;
+}
+#hepatitisBtn:target , #measlesBtn:target , #toxidBtn:target,#hepatitisBtn:focus , #measlesBtn:focus , #toxidBtn:focus {
+    border:2px solid dodgerblue;
+}
