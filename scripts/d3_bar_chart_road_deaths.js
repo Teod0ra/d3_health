@@ -70,7 +70,7 @@
       .data(data)
       .enter()
       .append("rect")
-      .style("fill", "steelblue")
+      .style("fill", "#00008b")
       .attr("x", function(d) { return x(d.country); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.value); })
