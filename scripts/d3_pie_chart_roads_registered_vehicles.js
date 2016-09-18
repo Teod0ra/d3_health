@@ -2,7 +2,6 @@
 
   var registeredVehiclesUrl = 'json_db/roads_registered_vehicles.json';
 
-  var colors = ["#5f9ea0", "#87cefa", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"];
   var notApplicable = '-';
 
   var regionsData = {};
@@ -55,8 +54,8 @@
       .innerRadius(0);
 
     var labelArc = d3.svg.arc()
-      .outerRadius(radius - 40)
-      .innerRadius(radius - 40);
+      .outerRadius(radius - 70)
+      .innerRadius(radius - 70);
 
     var pie = d3.layout.pie()
       .sort(regionComparator)
