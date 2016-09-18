@@ -52,11 +52,15 @@ body{
 }
 .jumbotron{
     background: none;
-    border: 3px dashed white;
-    width: 80%;
+    color: cadetblue;
+    font-weight: bolder;
+
 
 }
-
+.titles{
+    color: cadetblue;
+    font-weight: bolder;
+}
 .navbar {
     font-weight: bolder;
     background-color: rgba(255, 255, 255, 0.5);
@@ -67,10 +71,6 @@ body{
 #addCountry{
     overflow-y: scroll;
     height: 150px;
-}
-
-#carouselExamples{
-    display: none;
 }
 
 /* Makes images fully responsive */
