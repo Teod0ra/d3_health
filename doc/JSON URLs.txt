@@ -64,7 +64,7 @@ ROADS
 
 registered vehicles
 
-http://apps.who.int/gho/athena/data/GHO/RS_194.json?profile=simple&filter=COUNTRY:*
+http://apps.who.int/gho/athena/data/GHO/RS_194.json?profile=simple&filter=COUNTRY:*;REGION:*
 
 https://bl.ocks.org/mbostock/3887235
 

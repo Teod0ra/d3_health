@@ -9,11 +9,10 @@
 
   <script type="text/javascript" src="scripts/jquery/jquery-2.1.0.min.js"></script>
   <script type="text/javascript" src="scripts/bootstrap/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="scripts/d3/d3.min.js" charset="utf-8"> </script>
+
   <link href="scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
-  <script src="scripts/webmanage.js"></script>
-  <script src="scripts/d3/d3.min.js" charset="utf-8">
-  </script>
 
 </head>
 
@@ -32,23 +31,22 @@
 
   <div class="row">
     <h2>Број на регистрирани возила:</h2>
-    <div  class="btn-group col-md-6">
-      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">
-        Одбери држава: <span class="caret"></span>
-      </button>
-      <ul id="addCountry" class="dropdown-menu">
-        <li><a href="#">Drzava1</a></li>
-        <li><a href="#">Drzava1</a></li>
-        <li><a href="#">Drzava1</a></li>
-        <li><a href="#">Drzava1</a></li>
-        <li><a href="#">Drzava1</a></li>
-        <li><a href="#">Drzava1</a></li>
+    <!--<div  class="btn-group col-md-6">-->
+      <!--<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"-->
+              <!--aria-expanded="false">-->
+        <!--Одбери држава: <span class="caret"></span>-->
+      <!--</button>-->
+      <!--<ul id="addCountry" class="dropdown-menu">-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
+        <!--<li><a href="#">Drzava1</a></li>-->
 
-      </ul>
-    </div>
-    <div id="vehiclesRegistered" class="col-md-6">
-      here goes the graph
+      <!--</ul>-->
+    <!--</div>-->
+    <div id="vehiclesRegistered" class="col-md-6 vehiclesRegistered">
     </div>
 
   </div>
@@ -79,7 +77,9 @@
 
 </div>
 <!-- /.container -->
-<script src="scripts/pageLoader.js"></script>
+<script type="text/javascript" src="scripts/pageLoader.js"></script>
+<script type="text/javascript" src="scripts/webmanage.js"></script>
+<script src="scripts/d3_pie_chart_roads_registered_vehicles.js"></script>
 </body>
 
 </html>

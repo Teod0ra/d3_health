@@ -165,5 +165,13 @@ body{
 #tobaccoAverageTaxes .line {
     fill: none;
     stroke: steelblue;
-    stroke-width: 1.5px;
+    stroke-width: 2px;
+}
+#vehiclesRegistered .arc text {
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+#vehiclesRegistered .arc path {
+    stroke: #fff;
 }

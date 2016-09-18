@@ -1,0 +1,2191 @@
+{
+  "dimension": [
+    {
+      "label": "GHO",
+      "display": "Indicator"
+    },
+    {
+      "label": "DATASOURCE",
+      "display": "Data Source"
+    },
+    {
+      "label": "PUBLISHSTATE",
+      "display": "PUBLISH STATES"
+    },
+    {
+      "label": "YEAR",
+      "display": "Year"
+    },
+    {
+      "label": "REGION",
+      "display": "WHO region"
+    },
+    {
+      "label": "COUNTRY",
+      "display": "Country"
+    },
+    {
+      "label": "RESIDENCEAREATYPE",
+      "display": "Residence Area Type"
+    }
+  ],
+  "fact": [
+    {
+      "dim": {
+        "DATASOURCE": "RS_131",
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Saint Lucia",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 569"
+    },
+    {
+      "dim": {
+        "REGION": "Western Pacific",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_096",
+        "COUNTRY": "Marshall Islands",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 116"
+    },
+    {
+      "dim": {
+        "REGION": "Western Pacific",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "COUNTRY": "Kiribati",
+        "DATASOURCE": "RS_079",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 452"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Palau",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_117",
+        "REGION": "Western Pacific",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7 102"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "DATASOURCE": "RS_158",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Tonga",
+        "REGION": "Western Pacific",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "8 154"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Micronesia (Federated States of)",
+        "YEAR": "2010",
+        "REGION": "Western Pacific",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_100",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "8 337"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "DATASOURCE": "RS_034",
+        "COUNTRY": "Cook Islands",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Western Pacific",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "12 453"
+    },
+    {
+      "dim": {
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Vanuatu",
+        "DATASOURCE": "RS_168",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "14 000"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_063",
+        "COUNTRY": "Guyana",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "15 694"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Samoa",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_133",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "17 449"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Seychelles",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_138",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "18 606"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "DATASOURCE": "RS_043",
+        "COUNTRY": "Dominica",
+        "YEAR": "2014",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24 620"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Saint Vincent and the Grenadines",
+        "REGION": "Americas",
+        "YEAR": "2014",
+        "DATASOURCE": "RS_132",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "28 368"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Antigua and Barbuda",
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_006",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "29 989"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2011",
+        "DATASOURCE": "RS_061",
+        "COUNTRY": "Guinea",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "33 943"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Benin",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_017",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "34 914"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_028",
+        "YEAR": "2014",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Central African Republic",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "37 475"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_101",
+        "COUNTRY": "Monaco",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "41 055"
+    },
+    {
+      "dim": {
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_143",
+        "COUNTRY": "Solomon Islands",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "45 000"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Gambia",
+        "YEAR": "2005-2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_055",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Data for 2005 to 2013.",
+      "Value": "54 471"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "COUNTRY": "San Marino",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_134",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "54 606"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "DATASOURCE": "RS_025",
+        "COUNTRY": "Cabo Verde",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Africa",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "56 690"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2011",
+        "DATASOURCE": "RS_157",
+        "COUNTRY": "Togo",
+        "REGION": "Africa",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "58 111"
+    },
+    {
+      "dim": {
+        "YEAR": "2014",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Somalia",
+        "REGION": "Eastern Mediterranean",
+        "DATASOURCE": "RS_144",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "As of April 2014",
+      "Value": "59 457"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_093",
+        "REGION": "South-East Asia",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "COUNTRY": "Maldives",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "61 412"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_062",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2011-2014",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Guinea-Bissau",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Data for 2011 to 2014.",
+      "Value": "62 239"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_156",
+        "YEAR": "2006-2013",
+        "REGION": "South-East Asia",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Timor-Leste",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Data for 2006 to 2013.",
+      "Value": "63 553"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_018",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Bhutan",
+        "REGION": "South-East Asia",
+        "YEAR": "2014",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "68 173"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_139",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Sierra Leone",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "68 802"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_048",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Africa",
+        "COUNTRY": "Eritrea",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2014",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Second quarter 2014.",
+      "Value": "70 319"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Andorra",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_004",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "76 394"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Fiji",
+        "REGION": "Western Pacific",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_051",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "86 535"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2014",
+        "COUNTRY": "Papua New Guinea",
+        "REGION": "Western Pacific",
+        "DATASOURCE": "RS_119",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "94 297"
+    },
+    {
+      "dim": {
+        "YEAR": "2012",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Rwanda",
+        "DATASOURCE": "RS_130",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "107 411"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_033",
+        "YEAR": "2012",
+        "COUNTRY": "Congo",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "110 438"
+    },
+    {
+      "dim": {
+        "REGION": "Americas",
+        "COUNTRY": "Barbados",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_014",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "112 118"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Lesotho",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_085",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "122 997"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_011",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Bahamas",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "144 388"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_150",
+        "REGION": "Africa",
+        "COUNTRY": "Swaziland",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "180 103"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "YEAR": "2010",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_054",
+        "COUNTRY": "Gabon",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "195 000"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Montenegro",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_103",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "201 229"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Suriname",
+        "YEAR": "2012",
+        "REGION": "Americas",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_149",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "207 161"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Madagascar",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_090",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "219 576"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_066",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Iceland",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "245 949"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Namibia",
+        "YEAR": "2012",
+        "DATASOURCE": "RS_107",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "280 583"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Mali",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_094",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "289 828"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Niger",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_112",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "315 600"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "REGION": "Eastern Mediterranean",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Sudan",
+        "DATASOURCE": "RS_148",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "320 974"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Malta",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_095",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "322 960"
+    },
+    {
+      "dim": {
+        "YEAR": "2010",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Democratic Republic of the Congo",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_041",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "350 000"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Senegal",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_136",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "401 910"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_155",
+        "REGION": "Europe",
+        "COUNTRY": "Macedonia",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "403 339"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_153",
+        "COUNTRY": "Tajikistan",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "411 548"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Mauritania",
+        "DATASOURCE": "RS_097",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "416 190"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_089",
+        "YEAR": "2014",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Luxembourg",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "431 245"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_091",
+        "COUNTRY": "Malawi",
+        "YEAR": "2014",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Up to June 2014.",
+      "Value": "437 416"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Africa",
+        "COUNTRY": "Mauritius",
+        "DATASOURCE": "RS_098",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "443 495"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_002",
+        "COUNTRY": "Albania",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "445 956"
+    },
+    {
+      "dim": {
+        "YEAR": "2012-2013",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_050",
+        "COUNTRY": "Ethiopia",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Ethiopian calendar.",
+      "Value": "478 244"
+    },
+    {
+      "dim": {
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_074",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Jamaica",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "518 239"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_021",
+        "COUNTRY": "Botswana",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2014",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "520 793"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Zambia",
+        "DATASOURCE": "RS_172",
+        "REGION": "Africa",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "534 532"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "COUNTRY": "Mozambique",
+        "REGION": "Africa",
+        "DATASOURCE": "RS_105",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "542 336"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Bahrain",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_012",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "545 155"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_111",
+        "COUNTRY": "Nicaragua",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "566 731"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_005",
+        "COUNTRY": "Angola",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "581 530"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Cote d'Ivoire",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "YEAR": "2012",
+        "DATASOURCE": "RS_036",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "594 071"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_029",
+        "REGION": "Africa",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Chad",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "622 120"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "DATASOURCE": "RS_038",
+        "COUNTRY": "Cuba",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "628 155"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Cyprus",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_039",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "644 068"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_125",
+        "COUNTRY": "Qatar",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "647 878"
+    },
+    {
+      "dim": {
+        "REGION": "Eastern Mediterranean",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_001",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Afghanistan",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "655 357"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Mongolia",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_102",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "675 064"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_127",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Republic of Moldova",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "706 785"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_049",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Estonia",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "763 975"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "El Salvador",
+        "DATASOURCE": "RS_047",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "817 972"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Latvia",
+        "DATASOURCE": "RS_083",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "826 469"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_161",
+        "YEAR": "2014",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Turkmenistan",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "847 874"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "COUNTRY": "Bosnia and Herzegovina",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_020",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "881 200"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "DATASOURCE": "RS_173",
+        "COUNTRY": "Zimbabwe",
+        "REGION": "Africa",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "927 129"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_056",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Georgia",
+        "REGION": "Europe",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "951 649"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Kyrgyzstan",
+        "DATASOURCE": "RS_081",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "958 187"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Singapore",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Western Pacific",
+        "DATASOURCE": "RS_140",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "974 170"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_118",
+        "COUNTRY": "Panama",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 004 669"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "COUNTRY": "Oman",
+        "REGION": "Eastern Mediterranean",
+        "DATASOURCE": "RS_115",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 082 996"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Liberia",
+        "DATASOURCE": "RS_086",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2012",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 085 075"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Azerbaijan",
+        "REGION": "Europe",
+        "YEAR": "2012",
+        "DATASOURCE": "RS_010",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 135 936"
+    },
+    {
+      "dim": {
+        "YEAR": "2011",
+        "COUNTRY": "Nepal",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_108",
+        "GHO": "Number of registered vehicles",
+        "REGION": "South-East Asia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 178 911"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "REGION": "Eastern Mediterranean",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_171",
+        "COUNTRY": "Yemen",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 201 890"
+    },
+    {
+      "dim": {
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_019",
+        "COUNTRY": "Bolivia (Plurinational State of)",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2012",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 206 743"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Americas",
+        "DATASOURCE": "RS_120",
+        "COUNTRY": "Paraguay",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 227 469"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_162",
+        "COUNTRY": "Uganda",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 228 425"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_076",
+        "COUNTRY": "Jordan",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Eastern Mediterranean",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 263 754"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Honduras",
+        "DATASOURCE": "RS_064",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 378 050"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "COUNTRY": "Slovenia",
+        "DATASOURCE": "RS_142",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 395 704"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Lao People's Democratic Republic",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_082",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Western Pacific",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 439 481"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_165",
+        "REGION": "Africa",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "United Republic of Tanzania",
+        "YEAR": "2014",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 509 786"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "DATASOURCE": "RS_058",
+        "YEAR": "2012",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Ghana",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 532 080"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Burkina Faso",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_024",
+        "REGION": "Africa",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 545 903"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "COUNTRY": "Lebanon",
+        "DATASOURCE": "RS_084",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 680 011"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Ecuador",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_045",
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 721 206"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Tunisia",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_159",
+        "REGION": "Eastern Mediterranean",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 735 339"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Costa Rica",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_035",
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 759 341"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Kuwait",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_080",
+        "REGION": "Eastern Mediterranean",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 841 416"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_037",
+        "YEAR": "2013",
+        "COUNTRY": "Croatia",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 869 370"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Lithuania",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2012",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_088",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 984 496"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Uruguay",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_167",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "1 991 836"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "COUNTRY": "Kenya",
+        "DATASOURCE": "RS_078",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 011 972"
+    },
+    {
+      "dim": {
+        "REGION": "South-East Asia",
+        "YEAR": "2014",
+        "DATASOURCE": "RS_013",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Bangladesh",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 088 566"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_137",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Serbia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 130 035"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Cambodia",
+        "REGION": "Western Pacific",
+        "DATASOURCE": "RS_026",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 457 569"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_071",
+        "REGION": "Europe",
+        "COUNTRY": "Ireland",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 482 557"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "DATASOURCE": "RS_060",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "COUNTRY": "Guatemala",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 562 925"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Slovakia",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_141",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 622 939"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_163",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "COUNTRY": "United Arab Emirates",
+        "REGION": "Eastern Mediterranean",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 674 894"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "DATASOURCE": "RS_072",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Israel",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 850 513"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_042",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "COUNTRY": "Denmark",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "2 911 147"
+    },
+    {
+      "dim": {
+        "REGION": "Americas",
+        "COUNTRY": "Dominican Republic",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_044",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 215 773"
+    },
+    {
+      "dim": {
+        "YEAR": "2012",
+        "DATASOURCE": "RS_110",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "New Zealand",
+        "REGION": "Western Pacific",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 250 066"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_104",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "COUNTRY": "Morocco",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 286 421"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "COUNTRY": "Bulgaria",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_023",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 502 771"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Libya",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_087",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Eastern Mediterranean",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 553 497"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Norway",
+        "YEAR": "2012",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_114",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 671 885"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_065",
+        "COUNTRY": "Hungary",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 690 599"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Belarus",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_015",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 900 442"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "DATASOURCE": "RS_077",
+        "COUNTRY": "Kazakhstan",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "3 926 487"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Chile",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_030",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "4 263 084"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Peru",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_121",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "4 264 114"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "REGION": "South-East Asia",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Myanmar",
+        "DATASOURCE": "RS_106",
+        "YEAR": "2014",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "4 310 112"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Eastern Mediterranean",
+        "DATASOURCE": "RS_070",
+        "COUNTRY": "Iraq",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "4 515 041"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_147",
+        "COUNTRY": "Sri Lanka",
+        "REGION": "South-East Asia",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5 203 678"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Switzerland",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_152",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5 693 642"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Sweden",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_151",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5 755 952"
+    },
+    {
+      "dim": {
+        "REGION": "Africa",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_113",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Nigeria",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5 791 446"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_052",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Finland",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5 862 216"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Romania",
+        "DATASOURCE": "RS_128",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "5 985 085"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2012",
+        "COUNTRY": "Portugal",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "DATASOURCE": "RS_124",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6 056 856"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Austria",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_009",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6 384 971"
+    },
+    {
+      "dim": {
+        "YEAR": "2010",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Saudi Arabia",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Eastern Mediterranean",
+        "DATASOURCE": "RS_135",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6 599 216"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "COUNTRY": "Belgium",
+        "DATASOURCE": "RS_016",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "6 993 767"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Egypt",
+        "REGION": "Eastern Mediterranean",
+        "DATASOURCE": "RS_046",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7 037 954"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_003",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Algeria",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7 308 539"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_040",
+        "COUNTRY": "Czech Republic",
+        "REGION": "Europe",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7 689 730"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Philippines",
+        "REGION": "Western Pacific",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_122",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "7 690 038"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_059",
+        "COUNTRY": "Greece",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "8 035 423"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Eastern Mediterranean",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Pakistan",
+        "YEAR": "2011",
+        "DATASOURCE": "RS_116",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "9 080 437"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Netherlands",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_109",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "9 612 273"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_032",
+        "YEAR": "2013",
+        "COUNTRY": "Colombia",
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "9 734 565"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "South Africa",
+        "DATASOURCE": "RS_145",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Africa",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "9 909 923"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Australia",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Western Pacific",
+        "DATASOURCE": "RS_008",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "17 180 596"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_160",
+        "COUNTRY": "Turkey",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "17 939 447"
+    },
+    {
+      "dim": {
+        "YEAR": "2012",
+        "COUNTRY": "Canada",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "DATASOURCE": "RS_027",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "22 366 270"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Argentina",
+        "REGION": "Americas",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_007",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "23 120 241"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_126",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Western Pacific",
+        "COUNTRY": "Republic of Korea",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "23 150 619"
+    },
+    {
+      "dim": {
+        "REGION": "Western Pacific",
+        "DATASOURCE": "RS_092",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Malaysia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "23 819 256"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_123",
+        "YEAR": "2012",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Poland",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "24 875 717"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "REGION": "Eastern Mediterranean",
+        "DATASOURCE": "RS_069",
+        "COUNTRY": "Iran (Islamic Republic of)",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Iranian calendar.",
+      "Value": "26 866 457"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Thailand",
+        "YEAR": "2012",
+        "DATASOURCE": "RS_154",
+        "REGION": "South-East Asia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "32 476 977"
+    },
+    {
+      "dim": {
+        "REGION": "Europe",
+        "COUNTRY": "Spain",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_146",
+        "YEAR": "2013",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "32 616 105"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Mexico",
+        "DATASOURCE": "RS_099",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "35 005 913"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2012",
+        "REGION": "Europe",
+        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "DATASOURCE": "RS_164",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "35 582 650"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Viet Nam",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_169",
+        "YEAR": "2013",
+        "REGION": "Western Pacific",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "40 790 841"
+    },
+    {
+      "dim": {
+        "COUNTRY": "France",
+        "DATASOURCE": "RS_053",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "YEAR": "2014",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "42 792 103"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_129",
+        "GHO": "Number of registered vehicles",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Russian Federation",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "50 616 163"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "Italy",
+        "DATASOURCE": "RS_073",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "51 269 218"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Germany",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Europe",
+        "YEAR": "2013",
+        "DATASOURCE": "RS_057",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "52 391 000"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Brazil",
+        "REGION": "Americas",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "DATASOURCE": "RS_022",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "81 600 729"
+    },
+    {
+      "dim": {
+        "DATASOURCE": "RS_075",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Japan",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Western Pacific",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "Data as of April 2013. ",
+      "Value": "91 377 312"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "COUNTRY": "Indonesia",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_068",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "South-East Asia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "104 211 132"
+    },
+    {
+      "dim": {
+        "REGION": "South-East Asia",
+        "DATASOURCE": "RS_067",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2012",
+        "COUNTRY": "India",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "159 490 578"
+    },
+    {
+      "dim": {
+        "GHO": "Number of registered vehicles",
+        "REGION": "Western Pacific",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "COUNTRY": "China",
+        "DATASOURCE": "RS_031",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "250 138 212"
+    },
+    {
+      "dim": {
+        "YEAR": "2011",
+        "GHO": "Number of registered vehicles",
+        "DATASOURCE": "RS_166",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Americas",
+        "COUNTRY": "United States of America",
+        "PUBLISHSTATE": "Published"
+      },
+      "Value": "265 043 362"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "REGION": "Europe",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Armenia",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "No data",
+      "Value": "-"
+    },
+    {
+      "dim": {
+        "YEAR": "2013",
+        "REGION": "Americas",
+        "GHO": "Number of registered vehicles",
+        "COUNTRY": "Belize",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "No data",
+      "Value": "-"
+    },
+    {
+      "dim": {
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "COUNTRY": "Cameroon",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "No data",
+      "Value": "-"
+    },
+    {
+      "dim": {
+        "REGION": "Eastern Mediterranean",
+        "RESIDENCEAREATYPE": "Total",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "COUNTRY": "Djibouti",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "No data",
+      "Value": "-"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Sao Tome and Principe",
+        "RESIDENCEAREATYPE": "Total",
+        "REGION": "Africa",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "No data",
+      "Value": "-"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Trinidad and Tobago",
+        "RESIDENCEAREATYPE": "Total",
+        "YEAR": "2013",
+        "GHO": "Number of registered vehicles",
+        "REGION": "Americas",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "No data",
+      "Value": "-"
+    },
+    {
+      "dim": {
+        "COUNTRY": "Uzbekistan",
+        "REGION": "Europe",
+        "GHO": "Number of registered vehicles",
+        "YEAR": "2013",
+        "RESIDENCEAREATYPE": "Total",
+        "PUBLISHSTATE": "Published"
+      },
+      "Comments": "No data",
+      "Value": "-"
+    }
+  ]
+}
