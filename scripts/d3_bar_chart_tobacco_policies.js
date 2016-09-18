@@ -8,6 +8,7 @@
   var y_use = d3.scale.ordinal().rangeRoundBands([0, height], 0.1);
 
   var x_use = d3.scale.linear().range([0, width]);
+  var color = d3.scale.ordinal().range(["#6495ed", "#1e90ff", "#87cefa"]);
 
   var xAxis_use = d3.svg.axis()
     .scale(x_use)
@@ -94,7 +95,9 @@
       .data(data)
       .enter()
       .append("rect")
-      .style("fill", "steelblue")
+      .style("fill", function(d, i) {
+          return color(i);
+        })
       .attr("y", function (d) {
         return y_use(d.police);
       })
@@ -102,6 +105,7 @@
       .attr("x", 0)
       .attr("width", function (d) {
         return x_use(d.value);
-      });
+      })
+
   }
 })();

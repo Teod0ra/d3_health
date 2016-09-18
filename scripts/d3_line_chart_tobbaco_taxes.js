@@ -2,13 +2,14 @@
 
   var tobbacoTaxesUrl = 'json_db/tobacco_taxes.json';
 
-  var margin = {top: 30, right: 20, bottom: 40, left: 50},
-    width = 300 - margin.left - margin.right,
+  var margin = {top: 30, right: 20, bottom: 40, left: 80},
+    width = 800 - margin.left - margin.right,
     height = 270 - margin.top - margin.bottom;
 
 // Set the ranges
   var x = d3.scale.ordinal().rangePoints([0, width]);
   var y = d3.scale.linear().range([height, 0]);
+
 
 // Define the axes
   var xAxis = d3.svg.axis().scale(x)
@@ -36,7 +37,7 @@
     var data = [];
     var notApplicable = 'Not available';
     var year = "2012";
-    var countries = ['Macedonia', 'Serbia'];
+    var countries = ['Macedonia', 'Serbia', 'Greece', 'Bulgaria','Germany','Albania','Bosnia and Herzegovina','France'];
     var insertedCountries = {};
     for (var i = 0; i < tobbacoData.fact.length; i++) {
       if (tobbacoData.fact[i].dim.REGION == 'Europe' && tobbacoData.fact[i].dim.YEAR == year && tobbacoData.fact[i].Value != notApplicable && tobbacoData.fact[i].Value != '0.00') {
