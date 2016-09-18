@@ -195,3 +195,22 @@ h2, h3 {
 #vehiclesRegistered .arc path {
     stroke: #fff;
 }
+
+#immunizationGraph .bar {
+    fill: steelblue;
+}
+
+#immunizationGraph .axis {
+    font: 10px sans-serif;
+}
+
+#immunizationGraph .axis path,
+#immunizationGraph .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+#immunizationGraph .x.axis path {
+    display: none;
+}
