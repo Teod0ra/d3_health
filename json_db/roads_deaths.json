@@ -589,7 +589,7 @@
     {
       "dim": {
         "PUBLISHSTATE": "Published",
-        "COUNTRY": "Russian Federation",
+        "COUNTRY": "Russia",
         "REGION": "Europe",
         "YEAR": "2013",
         "GHO": "Estimated number of road traffic deaths"
@@ -1133,7 +1133,7 @@
       "dim": {
         "PUBLISHSTATE": "Published",
         "GHO": "Estimated number of road traffic deaths",
-        "COUNTRY": "Czech Republic",
+        "COUNTRY": "Czech",
         "REGION": "Europe",
         "YEAR": "2013"
       },
@@ -1272,7 +1272,7 @@
         "PUBLISHSTATE": "Published",
         "REGION": "Europe",
         "GHO": "Estimated number of road traffic deaths",
-        "COUNTRY": "Bosnia and Herzegovina",
+        "COUNTRY": "Bosnia",
         "YEAR": "2013"
       },
       "Comments": "Regression estimate",
@@ -1748,7 +1748,7 @@
       "dim": {
         "PUBLISHSTATE": "Published",
         "GHO": "Estimated road traffic death rate (per 100 000 population)",
-        "COUNTRY": "Russian Federation",
+        "COUNTRY": "Russia",
         "REGION": "Europe",
         "YEAR": "2013"
       },
@@ -2393,7 +2393,7 @@
     },
     {
       "dim": {
-        "COUNTRY": "Czech Republic",
+        "COUNTRY": "Czech",
         "REGION": "Europe",
         "YEAR": "2013",
         "GHO": "Estimated road traffic death rate (per 100 000 population)",
@@ -2817,7 +2817,7 @@
         "REGION": "Europe",
         "YEAR": "2013",
         "GHO": "Estimated number of road traffic deaths",
-        "COUNTRY": "Republic of Moldova"
+        "COUNTRY": " Moldova"
       },
       "Comments": "Death registration data",
       "Value": "437"
@@ -3073,7 +3073,7 @@
       "dim": {
         "PUBLISHSTATE": "Published",
         "GHO": "Estimated road traffic death rate (per 100 000 population)",
-        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "COUNTRY": "UK",
         "REGION": "Europe",
         "YEAR": "2013"
       },
@@ -3124,7 +3124,7 @@
       "dim": {
         "PUBLISHSTATE": "Published",
         "YEAR": "2013",
-        "COUNTRY": "Republic of Moldova",
+        "COUNTRY": " Moldova",
         "REGION": "Europe",
         "GHO": "Estimated road traffic death rate (per 100 000 population)"
       },
@@ -3510,7 +3510,7 @@
       "dim": {
         "PUBLISHSTATE": "Published",
         "REGION": "Europe",
-        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "COUNTRY": "UK",
         "YEAR": "2013",
         "GHO": "Estimated number of road traffic deaths"
       },
@@ -3582,7 +3582,7 @@
     {
       "dim": {
         "REGION": "Europe",
-        "COUNTRY": "Bosnia and Herzegovina",
+        "COUNTRY": "Bosnia",
         "YEAR": "2013",
         "GHO": "Estimated road traffic death rate (per 100 000 population)",
         "PUBLISHSTATE": "Published"
